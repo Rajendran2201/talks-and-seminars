@@ -16,3 +16,6 @@ A repository to track my talks, seminars and presentations in various forums.
 | 10    | [IR 4.0 Trends in Germany](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Industrial%20Revolution%204.0/IR%204.0%20Trends%20in%20Germany.pdf) | Industrial Revolution| 2024 |
 | 11    | [File Management](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Operating%20Systems/File%20management.pdf) | Operating System     | 2024 |
 | 12    | [Memory Management](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Operating%20Systems/Memory%20Management.pdf) | Operating System     | 2024 |
+| 13    | [Pulomary Disease Detection](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Business/respio.pdf) | Business     | 2024 |
+| 14    | [Descriptive Analysis](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Data%20Science/Descriptive%20Analysis.pdf) | Data Science  | 2025 |
+| 15    | [Infant Cry Detection](https://github.com/Rajendran2201/talks-and-seminars/blob/main/assets/Business/TinyToes.pdf) | Business     | 2025 |
